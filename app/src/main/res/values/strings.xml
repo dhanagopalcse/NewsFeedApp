@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+    <string name="title_home">News Feed</string>
+    <string name="title_dashboard">Favourite News</string>
+    <string name="title_settings">Change View</string>
+
+
+    <string name="news_title">Title</string>
+    <string name="news_description">Description</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_news_found">Nothing found.</string>
+    <string name="search_keyword">Search Keyword</string>
+    <string name="enter_keyword_here">Enter keyword here</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="source">SOURCE</string>
+    <string name="published_at">PUBLISHED AT</string>
+
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="details">News Details</string>
+    <string name="search">Search</string>
+
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="welcomemsg">Welcome to NewsFeedApp</string>
+
+</resources>
